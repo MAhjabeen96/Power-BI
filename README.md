@@ -1,5 +1,6 @@
 # Super Store Sales
 ## Introduction
+<p align="center"><img src="https://github.com/AnjaliBakshi17/SuperstoreSales_Dashboard/blob/main/asset/power-BI-768x432.jpg" width="400" ></p>
 
 The Sales Superstore Dashboard project aims to analyze and visualize the sales performance of a USA company using the Sales Superstore dataset of two years using Power BI. 
 his dynamic dashboard uncovers actionable insights in sales trends, customer behavior, product performance, geography, orders, shipping, and profitability, empowering businesses to optimize sales, improve customer management, and drive growth.
