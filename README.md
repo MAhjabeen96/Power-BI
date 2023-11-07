@@ -5,8 +5,6 @@ This dynamic dashboard uncovers actionable insights in sales trends, customer be
 ## Objective
 - To contribute to the success of business by utilizing data analysis techniques,specifically focusiing on time series analysis, to provide valuable insights and accuaret sales forecasting.
 
-##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
-
 ## Data Description
 
 
@@ -34,12 +32,6 @@ Returns         | product returned or not
 Payment Mode    | mode of payment for the order
 
 
-<p align="left"> <img src="https://github.com/AnjaliBakshi17/SuperstoreSales_Dashboard/blob/main/asset/dataset.png" /> </p>
-<p align="left"> <img src="https://github.com/AnjaliBakshi17/SuperstoreSales_Dashboard/blob/main/asset/dataset1.png" /> </p>
-
-
-
-
 ## Methodology
 
 - **Dataset Preparation**: The Superstore sales data is obtained and imported into Power Query Editor for data cleaning and transformation.
@@ -52,7 +44,7 @@ Payment Mode    | mode of payment for the order
 
 - **Data Enhancement with DAX**: Leveraging DAX (Data Analysis Expressions), calculated measures like average delivery days are generated to extract further valuable insights from the dataset.
 
-![Dash](https://github.com/AnjaliBakshi17/SuperstoreSales_Dashboard/blob/main/asset/dashboard.jpeg)
+![Dash](SuperSales/SuperSalesDash.JPG)
 ![Dash](https://github.com/AnjaliBakshi17/SuperstoreSales_Dashboard/blob/main/asset/dashboard%201.jpeg)
 
 
