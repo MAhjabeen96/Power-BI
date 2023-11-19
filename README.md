@@ -3,7 +3,7 @@
 The Sales Superstore Dashboard project aims to analyze and visualize the sales performance of a USA company using the Sales Superstore dataset of two years using Power BI. 
 This dynamic dashboard uncovers actionable insights in sales trends, customer behavior, product performance, geography, orders, shipping, and profitability, empowering businesses to optimize sales, improve customer management, and drive growth.
 ## Objective
-- To contribute to the success of business by utilizing data analysis techniques,specifically focusiing on time series analysis, to provide valuable insights and accuaret sales forecasting.
+- To contribute to the success of business by utilizing data analysis techniques,specifically focusing on time series analysis, to provide valuable insights and accuaret sales forecasting.
 
 ## Data Description
 
@@ -70,10 +70,3 @@ Payment Mode    | mode of payment for the order
 - Incorporated data analysis techniques,specializing in **time series analysis**,to deliver valuable **insights**,accurate **sales forecasting** and **interactive dashboard** creation,driving business success.
 
 
-### Limitations
-
-- **Limited Interactivity:** Depending on the design and functionality of the dashboard, the level of interactivity and drill-down capabilities may be limited, restricting users' ability to explore data and gain deeper insights.
-
-- **User Expertise:** The dashboard assumes that users have a basic understanding of data analysis and interpretation. Users with limited data literacy or domain knowledge may face challenges in effectively utilizing the dashboard.
-
-- **Limited Historical Data:** The dashboard relies on a dataset spanning only two years, which might not provide a comprehensive historical context for certain analyses and long-term trend identification.
