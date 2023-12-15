@@ -44,8 +44,6 @@ Payment Mode    | mode of payment for the order
 
 - **Data Enhancement with DAX**: Leveraging DAX (Data Analysis Expressions), calculated measures like average delivery days are generated to extract further valuable insights from the dataset.
 
-![GitHub Logo](SuperSales Data Analysis/Dashboard-Page1.JPG)
-![GitHub Logo](SuperSales Data Analysis/Dashboard-Page2.JPG)
 
 
 
